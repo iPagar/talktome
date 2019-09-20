@@ -1,16 +1,16 @@
 {
-  "main.css": "/talktome/static/css/main.cfe410f7.chunk.css",
-  "main.js": "/talktome/static/js/main.fa775caa.chunk.js",
-  "main.js.map": "/talktome/static/js/main.fa775caa.chunk.js.map",
+  "main.css": "/talktome/static/css/main.8e90ff1d.chunk.css",
+  "main.js": "/talktome/static/js/main.6229dca0.chunk.js",
+  "main.js.map": "/talktome/static/js/main.6229dca0.chunk.js.map",
   "runtime~main.js": "/talktome/static/js/runtime~main.d2975394.js",
   "runtime~main.js.map": "/talktome/static/js/runtime~main.d2975394.js.map",
   "static/css/2.bfec9101.chunk.css": "/talktome/static/css/2.bfec9101.chunk.css",
   "static/js/2.8de0840e.chunk.js": "/talktome/static/js/2.8de0840e.chunk.js",
   "static/js/2.8de0840e.chunk.js.map": "/talktome/static/js/2.8de0840e.chunk.js.map",
   "index.html": "/talktome/index.html",
-  "precache-manifest.d09a36b98cfa309d0a6acc3af12ce9e6.js": "/talktome/precache-manifest.d09a36b98cfa309d0a6acc3af12ce9e6.js",
+  "precache-manifest.f835b7f280e2e5d16701bba3c3cf6d44.js": "/talktome/precache-manifest.f835b7f280e2e5d16701bba3c3cf6d44.js",
   "service-worker.js": "/talktome/service-worker.js",
   "static/css/2.bfec9101.chunk.css.map": "/talktome/static/css/2.bfec9101.chunk.css.map",
-  "static/css/main.cfe410f7.chunk.css.map": "/talktome/static/css/main.cfe410f7.chunk.css.map",
+  "static/css/main.8e90ff1d.chunk.css.map": "/talktome/static/css/main.8e90ff1d.chunk.css.map",
   "static/media/send.svg": "/talktome/static/media/send.5d4960d5.svg"
 }

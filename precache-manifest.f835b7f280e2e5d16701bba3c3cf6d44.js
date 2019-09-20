@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/talktome/static/js/runtime~main.d2975394.js"
   },
   {
-    "revision": "86677519942acb43682a",
-    "url": "/talktome/static/js/main.fa775caa.chunk.js"
+    "revision": "9d1c89f8eaa8ec7cd448",
+    "url": "/talktome/static/js/main.6229dca0.chunk.js"
   },
   {
     "revision": "62fef31fe729d6ea072d",
     "url": "/talktome/static/js/2.8de0840e.chunk.js"
   },
   {
-    "revision": "86677519942acb43682a",
-    "url": "/talktome/static/css/main.cfe410f7.chunk.css"
+    "revision": "9d1c89f8eaa8ec7cd448",
+    "url": "/talktome/static/css/main.8e90ff1d.chunk.css"
   },
   {
     "revision": "62fef31fe729d6ea072d",
     "url": "/talktome/static/css/2.bfec9101.chunk.css"
   },
   {
-    "revision": "b4f96859ae08da27823fa0d50d3f3dda",
+    "revision": "386d310a1442ed4b46c6da1e33152b55",
     "url": "/talktome/index.html"
   }
 ];
